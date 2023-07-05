@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingrainn
+- 👋 Hi, I’m @LUCILFER
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on myself
